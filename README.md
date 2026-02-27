@@ -23,9 +23,9 @@
 
 <<<<<<< HEAD
 <h3 align="left">Eu faço:</h3>
-=======
+
 <h3 align="left">🛠 Language and tools</h3>
->>>>>>> 2ef126d548d497ec7efa7a1e766a22a297678b45
+
 
 ###
 
@@ -75,8 +75,7 @@
 
 <h3 align="center"></h3>
 
-<<<<<<< HEAD
 ###
-=======
+
 ###
->>>>>>> 2ef126d548d497ec7efa7a1e766a22a297678b45
+
