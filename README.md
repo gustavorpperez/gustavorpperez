@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="215" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xncTZlZDRrZzZ6bDZuZG53dnNtdmV1ZW51a2YwbTg3NXRyajIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jA5QwJbkSFkyIch8se/giphy.gif"  />
+  <img height="150" src="[[[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xncTZlZDRrZzZ6bDZuZG53dnNtdmV1ZW51a2YwbTg3NXRyajIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jA5QwJbkSFkyIch8se/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxtd25qMmI4cW1rNDE5NTNyMzd2MmcyZzN1djRwd2xjNTZtY3h1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jA5QwJbkSFkyIch8se/giphy.gif)](https://tenor.com/pt-BR/view/mlem-seal-cute-animal-big-eyes-gif-10002606210418209961)](https://tenor.com/l44cNMhH17J.gif)"  />
 </div>
 
 ###
@@ -9,23 +9,25 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavorpperez.gustavorpperez&"  />
+</div>
+
+###
+
 <h1 align="center">Seja muito bem vindo(a)😉🫡</h1>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻 Sobre mim</h3>
 
 ###
 
-<p align="center">Me chamo Gustavo e sou um estudante de programação juvenil. Sou de São Paulo, cursando Informática e desenvolvimento de Sistemas<br><br>✨ Gosto muito de programar, jogar, computação, e tudo que envolver tecnologias<br>📚 Oque curso: Ti, informática na ETEC Jorge Street, DS no SENAI, e inglês por 6 anos<br>🎯 Objetivo: tornar-se um programador profissional<br>🤔 fato curioso: Curioso, sempre que possível melhoro no que posso</p>
+<p align="center">Me chamo Gustavo e sou um estudante de programação juvenil. Sou de São Paulo, cursando Informática e desenvolvimento de Sistemas<br><br>✨ Gosto muito de programar, jogar, computação, e tudo que envolver tecnologias<br>📚 Oque curso: Ti, informática na ETEC Jorge Street, DS no SENAI, e inglês por 6 anos<br>🎯 Objetivo: tornar-se um programador profissional<br>🤔 fato curioso: Sou curioso, sempre que possível melhoro no que posso</p>
 
 ###
 
-<<<<<<< HEAD
 <h3 align="left">Eu faço:</h3>
-=======
-<h3 align="left">🛠 Language and tools</h3>
->>>>>>> 2ef126d548d497ec7efa7a1e766a22a297678b45
 
 ###
 
@@ -75,8 +77,10 @@
 
 <h3 align="center"></h3>
 
-<<<<<<< HEAD
 ###
-=======
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavorpperez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ###
->>>>>>> 2ef126d548d497ec7efa7a1e766a22a297678b45
