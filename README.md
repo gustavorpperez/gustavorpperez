@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavorpperez.gustavorpperez&"  />
+</div>
+
+###
+
 <h1 align="center">Seja muito bem vindo(a)😉🫡</h1>
 
 ###
@@ -21,11 +27,7 @@
 
 ###
 
-<<<<<<< HEAD
 <h3 align="left">Eu faço:</h3>
-
-<h3 align="left">🛠 Language and tools</h3>
-
 
 ###
 
@@ -77,5 +79,8 @@
 
 ###
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavorpperez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
