@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="![SealScreamGIF](https://github.com/user-attachments/assets/06babbc7-d4b0-4c15-9ffc-598b49d81f07)
-"  />
+  <img height="150" src="![SealScreamGIF](https://github.com/user-attachments/assets/06babbc7-d4b0-4c15-9ffc-598b49d81f07)"  />
 </div>
 
 ###
