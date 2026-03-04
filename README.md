@@ -1,5 +1,6 @@
 <div align="center">
-<img height="200" src="https://i.imgur.com/gBxP6oJ.gif"  />
+<img height="200" src="![Uploading SealClapGIF.gif…]()
+"  />
 </div>
 
 ###
