@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">Me chamo Gustavo e sou um estudante de programação juvenil. Sou de São Paulo, cursando Informática e desenvolvimento de Sistemas<br><br>✨ Gosto muito de programar, jogar, computação, e tudo que envolver tecnologias<br>📚 Oque curso: Ti, informática na ETEC Jorge Street, DS no SENAI, e inglês por 6 anos<br>🎯 Objetivo: tornar-se um programador profissional<br>🤔 fato curioso: Sou curioso, sempre que possível melhoro no que posso</p>
+<p align="center">Me chamo Gustavo e sou um estudante de programação juvenil. Sou de São Paulo, cursando Informática e desenvolvimento de Sistemas<br><br>✨ Gosto muito de programar, jogar, computação, e tudo que envolver tecnologias<br>📚 Oque curso: Ti, informática na ETEC Jorge Street, DS no SENAI, e inglês por 7 anos<br>🎯 Objetivo: tornar-se um programador profissional<br>🤔 fato curioso: Sou curioso, sempre que possível melhoro no que posso</p>
 
 ###
 
